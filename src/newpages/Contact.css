@@ -1,0 +1,41 @@
+.contactform {
+    width: 85%;
+    max-width: 600px;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px 40px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 20px;
+    background: #ACC9AD;
+}
+
+.contactform .form-group {
+    margin-bottom: 30px;
+}
+
+.contactform .form-group label {
+    display: block;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.contactform .form-group input,
+.contactform .form-group textarea {
+    width: 100%;
+    margin-top: 6px;
+}
+
+.contactform .contact-form-button {
+    display: inline-block;
+    background: #EAE7CD;
+    padding: 14px 0;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-top: 6px;
+    width: 100%;
+}

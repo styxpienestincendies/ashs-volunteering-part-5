@@ -1,0 +1,157 @@
+/* Section One */
+
+#section-one {
+    text-align: center;
+    top: 10px;
+    position: relative;
+
+}
+
+.impact-projectprinciples-section {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+.impact-projectprinciples img {
+    width: 191px;
+}
+
+.impact-projectprinciples {
+    flex: 1;
+    width: 30%;
+    max-width: 300px;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    max-height: 660px;
+
+}
+
+.impact-projectprinciples h3 {
+    text-align: center;
+}
+
+.impact-projectprinciples p {
+    text-align: center;
+}
+
+/* Section Two */
+
+#section-two-title {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#section-two-title-p {
+    text-align: center;
+    font-size: 20px;
+}
+
+/*
+.section-two-content-title {
+    position: relative;
+    left: 50px;
+}
+
+.section-two-content-points {
+    position: relative;
+    left: 35px;
+}
+
+.section-two-content-points .styled {
+    list-style: none;
+
+}
+
+.section-two-content-points .styled li:nth-child(1)::before {
+    content: '🏀';
+}
+
+.section-two-content-points .styled li:nth-child(2)::before {
+    content: '🤝 ';
+}
+
+.section-two-content-points .styled li:nth-child(3)::before {
+    content: '🏢 ';
+}
+
+.section-two-content-points .styled li:nth-child(4)::before {
+    content: '🌱';
+}
+
+.section-two-content-points .styled li:nth-child(5)::before {
+    content: '🧭 ';
+}
+
+.section-two-content-points .styled li:nth-child(6)::before {
+    content: '👥';
+}
+
+.section-two-content-points .styled li:nth-child(7)::before {
+    content: '🏅 ';
+}
+
+.section-two-content-last-p {
+    text-align: center;
+} */
+
+/* Center the section title */
+.section-two-content-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Style the list with custom icons */
+.section-two-content-points ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-two-content-points ul li {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.section-two-content-points ul li::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    /* Adjust the size of the icon */
+    height: 20px;
+    /* Adjust the size of the icon */
+    margin-right: 10px;
+    /* Add spacing between the icon and text */
+    background-color: #0077B6;
+    /* Change the icon background color */
+    border-radius: 50%;
+    /* Make the icon circular */
+}
+
+/* Style the section text */
+.section-two-content-last-p {
+    text-align: center;
+    font-size: 18px;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+
+/* Add a background color to the section */
+.section-two-content {
+    background-color: #F4F4F4;
+    /* Change the background color */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    /* Add a subtle shadow */
+    margin-bottom: 40px;
+}
