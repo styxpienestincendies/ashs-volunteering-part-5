@@ -1,0 +1,45 @@
+/* CSS for the Carousel Component */
+
+/* Apply styles to the caption */
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    /* Add a semi-transparent background to captions */
+    color: #fff;
+    text-shadow: none;
+    /* Remove text shadow for better readability */
+}
+
+/* Apply styles to the caption title */
+.carousel-caption h3 {
+    font-size: 2rem;
+    /* Increase font size */
+}
+
+/* Apply styles to the carousel indicators */
+.carousel-indicators li {
+    background-color: #7C9F8E;
+    /* Change indicator color */
+    border: none;
+    /* Remove border */
+}
+
+/* Apply styles to the active indicator */
+.carousel-indicators .active {
+    background-color: #ACC9AD;
+    /* Change active indicator color */
+}
+
+/* Apply styles to the images */
+.carousel-item img {
+    object-fit: cover;
+    /* Ensure the image covers the entire slide */
+    max-height: 500px;
+    /* Set a maximum height for the images */
+}
+
+/* Apply styles to the carousel container */
+.carousel {
+    /* Add rounded corners to the carousel */
+    overflow: hidden;
+    /* Hide overflowing content */
+}
