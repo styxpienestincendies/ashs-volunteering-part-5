@@ -6,7 +6,7 @@ import { addDoc, collection } from 'firebase/firestore';
 import "./Contact.css"
 
 export const Contact = () => {
-    
+
     // Vairables names that my contact form will handle
     const [firstname, setFirstName] = useState();
     const [lastname, setLastName] = useState();
@@ -33,9 +33,11 @@ export const Contact = () => {
 
     return (
         <div className='outer-container'>
-            <h3> Contact Form </h3>
+
 
             <form className='contactform'>
+                <h3> Contact Form </h3>
+
                 <label> First Name </label>
                 <input
                     type='text'
