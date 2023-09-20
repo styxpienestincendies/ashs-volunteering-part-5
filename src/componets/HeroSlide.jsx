@@ -1,10 +1,10 @@
 import React from "react";
 import Carousel from 'react-bootstrap/Carousel';
-import volunteeringwork1 from '/Users/abdul-qudusamidu/Documents/React-ASHS-Volunteering-Hub/ashs-volunteering-part-5/src/assests/volunteering-work.jpg';
+import volunteeringwork1 from '../assests/volunteering-work.jpg';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import volunteeringwork2 from '/Users/abdul-qudusamidu/Documents/React-ASHS-Volunteering-Hub/ashs-volunteering-part-5/src/assests/volunteering-work-2.jpg';
-import volunteeringwork3 from '/Users/abdul-qudusamidu/Documents/React-ASHS-Volunteering-Hub/ashs-volunteering-part-5/src/assests/volunteering-work-3.jpg';
-import volunteeringwork4 from '/Users/abdul-qudusamidu/Documents/React-ASHS-Volunteering-Hub/ashs-volunteering-part-5/src/assests/volunteering-work-4.jpg';
+import volunteeringwork2 from '../assests/volunteering-work-2.jpg';
+import volunteeringwork3 from '../assests/volunteering-work-3.jpg';
+import volunteeringwork4 from '../assests/volunteering-work-4.jpg';
 import "./HeroSlide.css"
 
 export const HeroSlide = () => {

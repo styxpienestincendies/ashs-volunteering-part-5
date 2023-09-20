@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import "./Navbar.css"
-import companyLogo from '/Users/abdul-qudusamidu/Documents/React-ASHS-Volunteering-Hub/ashs-volunteering-part-5/src/assests/logo.png'; // Change
+import companyLogo from '../assests/logo.png';
 
 export const NavBar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
