@@ -1,0 +1,38 @@
+.hero {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    /* Ensure the image covers the entire container */
+}
+
+.hero__image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.hero__overlay {
+    position: absolute;
+    bottom: 15%;
+    right: 10%;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Add a semi-transparent overlay */
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.hero__title {
+    color: white;
+    font-size: 2.5rem;
+    margin: 0;
+    display: block;
+    /* Make the title a block element */
+    max-width: 80%;
+    /* Limit the width to 80% of the container */
+    margin: 0 auto;
+}
