@@ -71,7 +71,7 @@ export const Home = () => {
                         </div>
 
                         <h3 class="h3">
-                            <a href="#" class="card-title"> second hand shops </a>
+                            <a href="#" class="card-title"> Second Hand Shops </a>
                         </h3>
 
                         <p class="card-text">
@@ -91,7 +91,7 @@ export const Home = () => {
                         </div>
 
                         <h3 class="h3">
-                            <a href="#" class="card-title"> sport teaching </a>
+                            <a href="#" class="card-title"> Sport Teaching </a>
                         </h3>
 
                         <p class="card-text">
