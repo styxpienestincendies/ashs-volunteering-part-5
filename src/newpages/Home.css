@@ -1,5 +1,5 @@
-.first-image img {
-    width: 100%;
+.h2 section-title {
+    text-align: center;
 }
 
 .section-title {
@@ -46,4 +46,8 @@
 .card-text {
     font-size: 1rem;
     color: #666;
+}
+
+.centered-content {
+    text-align: center;
 }

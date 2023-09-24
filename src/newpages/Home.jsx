@@ -10,16 +10,14 @@ export const Home = () => {
         <div class="container">
             <HomeSlider />
             <SlidingImages />
-            <div class='first-image'>
 
+
+            <div class="centered-content">
+                <h2 class="h2 section-title">Services We Provided</h2>
+                <p class="section-text">
+                    Delivering Excellence, One Service at a Time.
+                </p>
             </div>
-
-            <h2 class="h2 section-title">Services We Provided</h2>
-
-            <p class="section-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna.
-            </p>
 
             <ul class="grid-list">
 
@@ -35,9 +33,7 @@ export const Home = () => {
                         </h3>
 
                         <p class="card-text">
-                            Sed ut perspiciatis unde omnis iste natus error sit tatem accusantium doloremque laudantium, totam rem
-                            aperiam, eaque
-                            ipsa quae.
+                            Empowering students through tutoring, I offer my time and expertise to help them excel academically. Together, we unlock their potential and inspire a love for learning. #VolunteerTutoring 📚💡
                         </p>
 
                     </div>
@@ -55,9 +51,7 @@ export const Home = () => {
                         </h3>
 
                         <p class="card-text">
-                            Sed ut perspiciatis unde omnis iste natus error sit tatem accusantium doloremque laudantium, totam rem
-                            aperiam, eaque
-                            ipsa quae.
+                            Transforming furry friends into pampered perfection! 🐾 With love and care, I provide top-notch grooming services for happy, healthy pups. Book your dog's spa day today! 🛁🐶 #DogGrooming
                         </p>
 
                     </div>
@@ -75,9 +69,7 @@ export const Home = () => {
                         </h3>
 
                         <p class="card-text">
-                            Sed ut perspiciatis unde omnis iste natus error sit tatem accusantium doloremque laudantium, totam rem
-                            aperiam, eaque
-                            ipsa quae.
+                            Discover hidden treasures at our second-hand boutique! ♻️ Every item has a story, and yours begins here. Sustainable fashion, home goods, and more. Join us in reducing waste and embracing style!
                         </p>
 
                     </div>
@@ -95,9 +87,7 @@ export const Home = () => {
                         </h3>
 
                         <p class="card-text">
-                            Sed ut perspiciatis unde omnis iste natus error sit tatem accusantium doloremque laudantium, totam rem
-                            aperiam, eaque
-                            ipsa quae.
+                            Passion for sports, dedication to growth! 🏀⚽ Offering expert coaching to athletes of all levels. Together, we'll elevate your game, build skills, and ignite your competitive spirit. Let's train for success! 🥇🔥 #SportCoaching
                         </p>
 
                     </div>
