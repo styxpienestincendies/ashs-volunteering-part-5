@@ -78,6 +78,8 @@ nav .menu span {
     left: -338px;
 }
 
+
+
 @media (max-width: 480px) {
     nav .menu {
         display: flex;
