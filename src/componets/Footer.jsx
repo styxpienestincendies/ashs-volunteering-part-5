@@ -45,11 +45,6 @@ export const Footer = () => {
                                 </li>
                             </ul>
                         </div>
-                        <div className="footer-social">
-                            <a href="#"><i className="fab fa-facebook"></i></a>
-                            <a href="#"><i className="fab fa-twitter"></i></a>
-                            <a href="#"><i className="fab fa-instagram"></i></a>
-                        </div>
                     </div>
                 </footer>
             </div>
