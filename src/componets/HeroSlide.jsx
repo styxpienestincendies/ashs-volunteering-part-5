@@ -16,7 +16,7 @@ export const HeroSlide = () => {
                     <img
                         className="d-block w-100"
                         src={volunteeringwork1}
-                        alt="First slide"
+                        alt="Image Source: https://unsplash.com/photos/YwpFllVSpvU"
                     />
                     <Carousel.Caption>
                         <h3>Coaching and Volunteering for a Purpose</h3>
@@ -28,7 +28,7 @@ export const HeroSlide = () => {
                     <img
                         className="d-block w-100"
                         src={volunteeringwork2}
-                        alt="Second slide"
+                        alt="Image Source: https://unsplash.com/photos/y3ZY6qFln_g"
                     />
                     <Carousel.Caption>
                         <h3>Coaching and Volunteering for a Purpose</h3>
@@ -40,7 +40,7 @@ export const HeroSlide = () => {
                     <img
                         className="d-block w-100"
                         src={volunteeringwork3}
-                        alt="Third slide"
+                        alt="Image Source: https://pixabay.com/photos/volunteer-pollution-bottle-plastic-7788809/"
                     />
                     <Carousel.Caption>
                         <h3>Coaching and Volunteering for a Purpose</h3>
@@ -51,7 +51,7 @@ export const HeroSlide = () => {
                     <img
                         className="d-block w-100"
                         src={volunteeringwork4}
-                        alt="Second slide"
+                        alt="Image Source: https://unsplash.com/photos/2b-P_jWjh7I"
                     />
                     <Carousel.Caption>
                         <h3>Coaching and Volunteering for a Purpose</h3>
