@@ -7,7 +7,7 @@ export const SlidingImages = () => {
         <div className="container-2">
             <div className="content">
                 <div className="image">
-                    <img src={NewSrc} alt="Your Image" />
+                    <img src={NewSrc} alt="Image Source: https://www.freepik.com/free-vector/people-volunteering-donating-money_3226107.htm" />
                 </div>
                 <div className="text">
                     <h2>Why You Should Join Us</h2>
